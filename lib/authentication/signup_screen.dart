@@ -92,7 +92,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                 height: 10,
               ),
               const Text(
-                "Register as a Driver",
+                "Register as a User",
                 style: TextStyle(
                     fontSize: 26,
                     color: Colors.grey,

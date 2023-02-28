@@ -76,7 +76,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 height: 10,
               ),
               const Text(
-                "Sign In as a Driver",
+                "Sign In as a User",
                 style: TextStyle(
                     fontSize: 26,
                     color: Colors.grey,
